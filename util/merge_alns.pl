@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 use strict;
 
-# Michael E. Sparks (michael.sparks2@usda.gov), 20 April 2023
+# Michael E. Sparks (mespar1@gmail.com), 20 April 2023
 
 # It is not technically correct to dub indels (or sequencing ambiguities) as
 # non-synonymous mutations, though I've done so to simplify the programming.

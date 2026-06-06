@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Michael E. Sparks (michael.sparks2@usda.gov), 20 April 2023
+# Michael E. Sparks (mespar1@gmail.com), 20 April 2023
 
 if [ -n "$1" ]; then
   # $handle will correspond to ``LdIV1.polyprotein" for sample data
